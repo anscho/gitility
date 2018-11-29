@@ -1,0 +1,15 @@
+{
+  "name": "clean_tags",
+  "version": "1.0.0",
+  "description": "List non-semantic tags and delete them",
+  "main": "clean_tags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Schoenfeld",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "node-cmd": "^3.0.0"
+  }
+}
