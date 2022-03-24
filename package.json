@@ -9,7 +9,7 @@
   "author": "Andrew Schoenfeld",
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "node-cmd": "^3.0.0"
   }
 }
